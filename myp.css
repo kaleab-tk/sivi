@@ -1,0 +1,117 @@
+body{
+  margin: 0 0;
+  
+  background-color: #B5B8A8 ;
+  text-align: center;
+}
+h1{
+  font-size: 100px;
+  font-family: sacramento ;
+  margin-top: 50px;
+  line-height: 2;
+  color:#11999E;
+}
+#container{
+  margin-top: 100px;
+}
+.namec, a{
+  font-size: 1rem;
+}
+.pro{
+  text-decoration: underline;
+}
+.para{
+  position: absolute;
+  left:700px;
+  top: 200px;
+  font-family:montserrat , Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 3rem;
+
+}
+hr{
+  width: 5%;
+  border-style: dotted;
+  border-width: 5px;
+  border-top: 0px;
+  color: #EAF6F6;
+  margin-top:80px;
+}
+.intro{
+  width: 50%;
+  margin: auto;
+}
+.bottom-container{
+  background-color: #50533D;
+  margin-top: 30px;
+  padding: 20px;
+}
+p{
+  font-size: 17px;
+}
+button{
+  border-radius: 10%;
+  background-color: #50533D;
+}
+.btn{
+  text-decoration: none;
+}
+.skill-row{
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-row2{
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+  line-height: 2;
+margin-bottom: 100px;
+}
+.webpic{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.swimpic{
+  width: 25%;
+  float: right;
+  margin-left:30px ;
+}
+
+h3{
+  color:#11999E;
+  margin: 40px;
+}
+a{
+  color:#11999E;
+  text-decoration: none;
+  font-size: 2rem;
+}
+a:hover{
+  color:#B5B8A8;
+}
+.tcloud{
+display: block;
+position: absolute;
+left: 800px;
+top:40px;
+}
+.bcloud{
+  display: block;
+  position: absolute;
+  left: 350px;
+}
+.mypic{
+height: 100px;
+width: auto;
+position: absolute;
+top: 140px;
+left: 300px;
+}
+h2{
+  font-weight: normal;
+  color:#11999E;
+  padding: 40px;
+}
